@@ -1,7 +1,7 @@
 ---
 name: User Story
-about: 'Ваша идеальная user story должна выглядеть так:'
-title: ''
+about: 'Идеальная user story'
+title: 'Шаблон'
 labels: User story
 assignees: maroze
 
