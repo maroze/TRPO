@@ -2,7 +2,7 @@
 name: User Story
 about: Идеальная user story
 title: Шаблон
-labels: ТРПО
+labels: User story, ТРПО
 assignees: maroze
 
 ---
